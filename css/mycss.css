@@ -11,3 +11,7 @@ body::before {
 .lightColor {
 	background-color: #4b0082;
 }
+
+.colorLight {
+	color: #4b0082;
+}
